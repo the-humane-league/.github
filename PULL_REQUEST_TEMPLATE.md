@@ -9,4 +9,4 @@
 
 ### QA
 [A list of things that must be true for this PR to be approved. For example:
-- As a donor, I should be able to select my currency from a dropdown on the donation form.]
+- As a user, I should be able to log in and see my avatar appear in the navigation bar.]
