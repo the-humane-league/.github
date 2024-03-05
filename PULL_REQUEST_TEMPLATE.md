@@ -1,12 +1,12 @@
 ### Purpose
+- [Asana ticket](https://example.com)
+<!-- Summarize the relevant context, such as the problem being addressed or the feature being added. -->
 
-- [Asana ticket](INSERT_URL_HERE)
+### Summary of Changes
+<!-- What changes did you make to achieve the goal? Are they user-facing or developer-facing? Do any of the changes merit a discussion? Are there different approaches you considered but decided against? -->
 
-[Explain briefly: "What does this PR do and why?"]
+### Screenshots (if applicable)
+<!-- If your changes include visual components, add screenshots or videos to showcase them. Omit this section if it's not applicable. -->
 
-### Changes
-[Consider: "What changes did you make to achieve the goal? Are they user-facing or developer-facing? Do any of the changes merit a discussion? Are there different approaches you considered but decided against?"]
-
-### QA
-[A list of things that must be true for this PR to be approved. For example:
-- As a user, I should be able to log in and see my avatar appear in the navigation bar.]
+### Reviewer Instructions
+<!-- Provide acceptance criteria and any specific instructions or areas of focus for the reviewers. -->
